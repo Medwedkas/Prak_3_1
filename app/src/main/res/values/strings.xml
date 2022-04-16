@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prak_3_1</string>
+    <string name="start_mess">Введите минимальное и максимальное значение</string>
+    <string name="min">минимум</string>
+    <string name="max">максисум</string>
+    <string name="start_button">Start</string>
+    <string name="Yes">Да</string>
+</resources>
